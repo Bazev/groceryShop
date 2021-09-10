@@ -1,0 +1,13 @@
+#content {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+#count {
+    color: red;
+}
+
+.compteur{
+    width: 30px;
+}
